@@ -12,7 +12,7 @@ So my history with this project is I live in Minnesota and my HRV PCB board frie
 
 (2) DHT 22 temperature sensors - [Inside sensor](https://www.aliexpress.com/item/1pcs-Free-Shipping-DHT22-AM2302-Digital-Temperature-and-Humidity-Sensor/1041496689.html?spm=a2g0s.9042311.0.0.27424c4dZmffRx) & [Outside Remote Sensor](https://www.aliexpress.com/item/1PCSX-DHT22-AM2302-Digital-Temperature-and-Humidity-Sensor-AM2302-with-wire/32767774502.html?spm=a2g0s.9042311.0.0.27424c4dZmffRx). Measure inside and outside temperature and humidity.
 
-(1) [0.96" OLED display](https://www.aliexpress.com/item/free-shipping-0-96-inch-OLED-display-module-128X64-OLED-For-arduino-I2C-IIC-SPI-7p/32595065663.html?spm=a2g0s.9042311.0.0.27424c4dTsEpJw) for local indication of the mode it is operating and for temp/humidity indication.
+(1) [0.96" OLED display](https://www.aliexpress.com/item/free-shipping-0-96-inch-OLED-display-module-128X64-OLED-For-arduino-I2C-IIC-SPI-7p/32595065663.html?spm=a2g0s.9042311.0.0.27424c4dTsEpJw) for local indication of the mode it is operating and for temp/humidity indication.  Be sure you desolder and solder pins so that board is configured for I2C communication. Instructions for SPI and I2C can be found [here](https://forum.arduino.cc/index.php?topic=472436.0).
 
 (1) [8-Channel SSR 5 Volt High Level trigger relay board](https://www.aliexpress.com/item/Free-Shipping-5V-8-Way-High-Level-Trigger-Solid-State-Relay-Module-with-Fuse-Arduin-250V2A/32572982881.html?spm=a2g0s.9042311.0.0.27424c4dCzzOlT)
 
