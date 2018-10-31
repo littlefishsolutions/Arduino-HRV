@@ -1,4 +1,4 @@
-/* Copyright (c) 2018, Mike Voelker wiggum_guy@yahoo.com 
+/* Copyright (c) 2018, Mike Voelker <wiggum_guy@yahoo.com> 
    All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
