@@ -4,8 +4,6 @@
 So my history with this project is I live in Minnesota and my HRV PCB board fried.  I always wanted something with an air economizer since our springs and falls are perfect times to take in cool outside air and condition the house rather than turning on the air conditioner or opening windows.  This is where this project fits in.
 
 
-[Link Text](URL_to_wiki)
-
 <H2>HARDWARE:</H2></BR>
 
 (1) [Arduino ESP32](https://www.aliexpress.com/item/Official-DOIT-ESP32-Development-Board-WiFi-Bluetooth-Ultra-Low-Power-Consumption-Dual-Core-ESP-32-ESP/32819024360.html?spm=a2g0s.9042311.0.0.27424c4do7rOpC) - Used due to the amount of GPIO required for this project.  ESP8266 just wasn't enough GPIO.
