@@ -1,7 +1,9 @@
 # Arduino-HRV
 <h3>HRV Arduino Controller with Air Economizer</H3>
 
-So my history with this project is I live in Minnesota and my HRV PCB board fried.  I always wanted something with an air economizer since our springs and falls are perfect times to take in cool outside air and condition the house rather than turning on the air conditioner or opening windows.  This is where this project fits in.
+So my history with this project is I live in Minnesota and my HRV PCB board fried.  I always wanted something with an air economizer since our springs and falls are perfect times to take in cool outside air and condition the house rather than turning on the air conditioner or opening windows.  This is where this project fits in.  
+
+I wrote up a detailed description of operation.  Refer to HRV Control Narrative.docx in the source code.
 
 
 <H2>HARDWARE:</H2></BR>
@@ -24,7 +26,7 @@ So my history with this project is I live in Minnesota and my HRV PCB board frie
 
 
 <H2>SOFTWARE:</H2></BR>
-Blynk App for iOS to control and monitor the status of the controller.
+Blynk App for iOS to control and monitor the status of the controller.  Refer to the Blynk Project Link in the source code.  It is a QR code that you need to scan to clone the configuration to make it yours.
 
 <H2>ARDUINO LIBRARIES USED:</H2></BR>
 WiFi.h, WiFiClient.h, BlynkSimpleEsp32.h, ArduinoOTA.h, mDNS.h, WiFiUdp.h, SPI.h, Wire.h, Adafruit_SSD1306.h
