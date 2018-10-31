@@ -7,9 +7,7 @@ So my history with this project is I live in Minnesota and my HRV PCB board frie
 [Link Text](URL_to_wiki)
 
 <H2>HARDWARE:</H2></BR>
-(1) [Arduino ESP32](https://www.aliexpress.com/item/Official-DOIT-ESP32-Development-Board-WiFi-Bluetooth-Ultra-Low-Power-Consumption-Dual-Core-ESP-32-ESP/32819024360.html?spm=a2g0s.9042311.0.0.27424c4do7rOpC) - Used due to the amount of GPIO required for this project.  ESP8266 just wasn't enough GPIO.
-
-[Arduino ESP32](https://www.aliexpress.com/item/Official-DOIT-ESP32-Development-Board-WiFi-Bluetooth-Ultra-Low-Power-Consumption-Dual-Core-ESP-32-ESP/32819024360.html?spm=a2g0s.9042311.0.0.27424c4do7rOpC) - Used due to the amount of GPIO required for this project.  ESP8266 just wasn't enough GPIO.</BR>
+(1) [Arduino ESP32](https://www.aliexpress.com/item/Official-DOIT-ESP32-Development-Board-WiFi-Bluetooth-Ultra-Low-Power-Consumption-Dual-Core-ESP-32-ESP/32819024360.html?spm=a2g0s.9042311.0.0.27424c4do7rOpC) - Used due to the amount of GPIO required for this project.  ESP8266 just wasn't enough GPIO.</BR>
 (1) [120V to 5V step down power supply](https://www.aliexpress.com/item/1x-HLK-PM01-AC-DC-220V-To-5V-Step-Down-Power-Supply-Module-Household-Switch-P0/32795822005.html?spm=a2g0s.9042311.0.0.27424c4dLldESR)</BR>
 (2) DHT 22 temperature sensors - [Inside sensor](https://www.aliexpress.com/item/1pcs-Free-Shipping-DHT22-AM2302-Digital-Temperature-and-Humidity-Sensor/1041496689.html?spm=a2g0s.9042311.0.0.27424c4dZmffRx) & [Outside Remote Sensor](https://www.aliexpress.com/item/1PCSX-DHT22-AM2302-Digital-Temperature-and-Humidity-Sensor-AM2302-with-wire/32767774502.html?spm=a2g0s.9042311.0.0.27424c4dZmffRx). Measure inside and outside temperature and humidity.</BR>
 (1) [0.96" OLED display](https://www.aliexpress.com/item/free-shipping-0-96-inch-OLED-display-module-128X64-OLED-For-arduino-I2C-IIC-SPI-7p/32595065663.html?spm=a2g0s.9042311.0.0.27424c4dTsEpJw) for local indication of the mode it is operating and for temp/humidity indication.</BR>
