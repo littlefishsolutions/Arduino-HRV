@@ -15,12 +15,4 @@ SOFTWARE:
 Blynk App for iOS to control and monitor the status of the controller.
 
 ARDUINO LIBRARIES USED:
-#include <WiFi.h>
-#include <WiFiClient.h>
-#include <BlynkSimpleEsp32.h>     //Blynk
-#include <ArduinoOTA.h>           //OTA
-#include <mDNS.h>                 //OTA
-#include <WiFiUdp.h>              //OTA
-#include <SPI.h>                  //OLED
-#include <Wire.h>                 //OLED
-#include <Adafruit_SSD1306.h>     //OLED
+WiFi.h, WiFiClient.h, BlynkSimpleEsp32.h, ArduinoOTA.h, mDNS.h, WiFiUdp.h, SPI.h, Wire.h, Adafruit_SSD1306.h
