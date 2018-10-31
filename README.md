@@ -22,7 +22,7 @@ So my history with this project is I live in Minnesota and my HRV PCB board frie
 
 (1) [Rotary Encoder KY-040](https://www.aliexpress.com/item/The-32TA1600-logic-board-320WA01C-BF-C67271-In-stock-Best-price-and-good-service/599712551.html?spm=a2g0s.9042311.0.0.27424c4dRSGR5c) & [Knob](https://www.aliexpress.com/item/5pcs-A01-Bakelite-Knob-20MMxH11-5MM-Mounting-Hole-6MM-For-Rotary-potentiometer-Encoder-Rotary-Switch/32802763478.html?spm=a2g0s.9042311.0.0.27424c4dcaEtgD) used as a push button.  Future functionality to include a menu and be able to select modes of operation and control setpoints.
 
-(1) [Enclosure](https://www.aliexpress.com/item/1Pcs-DIY-2-Size-Plastic-Waterproof-Housing-Enclosure-Box-Electronic-Project-Instrument-Case-Outdoor-Junction-Box/32839180611.html?spm=a2g0s.9042311.0.0.27424c4dLldESR) to house the OLED display and encloder.
+(1) [Enclosure](https://www.aliexpress.com/item/1Pcs-DIY-2-Size-Plastic-Waterproof-Housing-Enclosure-Box-Electronic-Project-Instrument-Case-Outdoor-Junction-Box/32839180611.html?spm=a2g0s.9042311.0.0.27424c4dLldESR) to house the OLED display and encloder.  Get the large one.  Dimensions are 100mmx68mmx50mm.
 
 
 <H2>SOFTWARE:</H2></BR>
