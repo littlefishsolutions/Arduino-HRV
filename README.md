@@ -3,7 +3,7 @@
 
 So my history with this project is I live in Minnesota and my HRV PCB board fried.  I always wanted something with an air economizer since our springs and falls are perfect times to take in cool outside air and condition the house rather than turning on the air conditioner or opening windows.  This is where this project fits in.  
 
-I wrote up a detailed description of operation.  Refer to HRV Control Narrative.docx in the source code.
+I wrote up a detailed description of operation.  Refer to HRV Control Narrative.docx in the source code.  The wiring diagram is also attached in the library.
 
 
 <H2>HARDWARE:</H2></BR>
